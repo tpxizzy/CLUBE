@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.topo {
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.h1topo {
+    color: #000;
+    font-size: 36px;
+    margin: 10px 0;
+}
+
+.h2topo {
+    color: #000;
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.imgtopo {
+    width: 800px; 
+    height: auto;
+}
+
+.secao {
+    margin: 20px auto;
+    padding: 0;
+    max-width: 800px;
+}
+
+.subtitulos {
+    color: #000;
+    font-size: 24px;
+    margin: 20px 0 10px;
+}
+
+img {
+    width: 800px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 6px solid #00f;
+}
+
+p {
+    color: #000;
+    font-size: 18px;
+    margin: 10px 0;
+    padding: 0 20px;
+    text-align: justify;
+}
+
+b{
+    color: aqua;
+}
